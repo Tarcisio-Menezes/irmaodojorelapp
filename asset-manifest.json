@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/irmaodojorelapp/static/css/main.b19a10a6.chunk.css",
+    "main.js": "/irmaodojorelapp/static/js/main.a3ff55af.chunk.js",
+    "main.js.map": "/irmaodojorelapp/static/js/main.a3ff55af.chunk.js.map",
+    "runtime-main.js": "/irmaodojorelapp/static/js/runtime-main.e1298ff2.js",
+    "runtime-main.js.map": "/irmaodojorelapp/static/js/runtime-main.e1298ff2.js.map",
+    "static/css/2.818011ed.chunk.css": "/irmaodojorelapp/static/css/2.818011ed.chunk.css",
+    "static/js/2.a957303e.chunk.js": "/irmaodojorelapp/static/js/2.a957303e.chunk.js",
+    "static/js/2.a957303e.chunk.js.map": "/irmaodojorelapp/static/js/2.a957303e.chunk.js.map",
+    "index.html": "/irmaodojorelapp/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/irmaodojorelapp/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.b19a10a6.chunk.css.map": "/irmaodojorelapp/static/css/main.b19a10a6.chunk.css.map",
+    "static/js/2.a957303e.chunk.js.LICENSE.txt": "/irmaodojorelapp/static/js/2.a957303e.chunk.js.LICENSE.txt",
+    "static/media/irmao-do-jorel.7fa50aee.jpeg": "/irmaodojorelapp/static/media/irmao-do-jorel.7fa50aee.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1298ff2.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a957303e.chunk.js",
+    "static/css/main.b19a10a6.chunk.css",
+    "static/js/main.a3ff55af.chunk.js"
+  ]
+}
