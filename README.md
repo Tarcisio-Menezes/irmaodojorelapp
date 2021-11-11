@@ -34,17 +34,15 @@ Nesta aplicação é possível procurar pelos seus personagens e episódios favo
 
 ## Como usar a aplicação:
 
-* Rick and Morty page foi projetado para telas convencionais de computadores, notebooks e também smartphones.
+* Irmão do Jorel App foi projetado para telas convencionais de computadores, notebooks e também smartphones.
 * A aplicação vai iniciar na página principal.
 * Na barra superior você pode navegar pelas páginas Home, Episódios e Sobre.
-* Em `Home` você pode explorar personagens de forma aleatória digitando um número inteiro no input `número da página`.
+* Em `Home` você pode explorar personagens por nome, por meio do input `nome do personagem`.
 * Será renderizado instantâneamente uma página contendo diversos personagens.
-* No input abaixo você pode utilizar a `pesquisa combinada`, digitando o nome de um personagem e dizendo ou não se ele está vivo ou morto.
-* Será renderizado instantâneamente uma página contendo as especificações sugeridas.
-* Em `episódios` você pode ver informações sobre alguns episódios da primeira temporada.
+* Em `episódios` você pode ver a sinopse dos episódios da série.
 * Em `sobre` será renderizado um personagem de forma aleatória e minhas redes de contato.
 
-## Documentação da API de Rick and Morty
+## Documentação da API Irmão do Jorel
 
 A aplicação consome os dados da API _irmaodojorel_ para realizar a busca de personagens e episódios.
 
